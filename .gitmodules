@@ -1,0 +1,3 @@
+[submodule "BarChartApp"]
+	path = BarChartApp
+	url = https://github.com/pp1989/BarChartApp.git
